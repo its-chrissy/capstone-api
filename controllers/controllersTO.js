@@ -5,13 +5,10 @@ const restaurants = JSON.parse(
   fs.readFileSync(`${__dirname}/../data/restaurantsTO.json`)
 );
 
-
-
 exports.getAllRestaurants = (req, res) => {
   console.log(req.requestTime);
   res.status(200).json(restaurants);
 };
-
 
 // const hotels = JSON.parse(
 //   fs.readFileSync(`${__dirname}/../data/hotelsTO.json`)
