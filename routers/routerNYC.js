@@ -1,8 +1,8 @@
-// const express = require("express");
-// const controllerN = require("../controllers/controllersNYC");
-// const router = express.Router();
+const express = require("express");
+const controller = require("../controllers/controllersNYC");
+const router = express.Router();
 
-// router.route("/newyork-city").get(controllerNYC.getAllRestaurants);
-// // router.route("/hotel").get(controllerNYC.getAllHotels);
+router.route("/").get(controller.getAllRestaurants);
+// router.route("/hotel").get(controller.getAllHotels);
 
-// module.exports = router;
+module.exports = router;

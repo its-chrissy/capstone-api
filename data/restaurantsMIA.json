@@ -18,10 +18,11 @@
       }
     ],
     "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.775383,
-      "longitude": -80.1884004
-    },
+
+    "lat": 25.775383,
+    "lng": -80.1884004,
+    "address": ["105 NE 3rd Ave", "Miami, FL 33132"],
+
     "transactions": ["delivery"],
     "price": "$$",
     "location": {
@@ -31,8 +32,7 @@
       "city": "Miami",
       "zip_code": "33132",
       "country": "US",
-      "state": "FL",
-      "display_address": ["105 NE 3rd Ave", "Miami, FL 33132"]
+      "state": "FL"
     },
     "phone": "+13055773454",
     "display_phone": "(305) 577-3454",
@@ -61,10 +61,11 @@
       }
     ],
     "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.7655942148975,
-      "longitude": -80.2192383373502
-    },
+
+    "lat": 25.7655942148975,
+    "lng": -80.2192383373502,
+    "address": ["1442 SW 8th St", "Miami, FL 33135"],
+
     "transactions": ["delivery", "pickup"],
     "price": "$$",
     "location": {
@@ -74,8 +75,7 @@
       "city": "Miami",
       "zip_code": "33135",
       "country": "US",
-      "state": "FL",
-      "display_address": ["1442 SW 8th St", "Miami, FL 33135"]
+      "state": "FL"
     },
     "phone": "+17865182196",
     "display_phone": "(786) 518-2196",
@@ -104,10 +104,11 @@
       }
     ],
     "rating": 4.0,
-    "coordinates": {
-      "latitude": 25.765039080853928,
-      "longitude": -80.25279801408455
-    },
+
+    "lat": 25.765039080853928,
+    "lng": -80.25279801408455,
+    "address": ["3555 SW 8th St", "Miami, FL 33135"],
+
     "transactions": ["pickup", "delivery"],
     "price": "$$",
     "location": {
@@ -117,8 +118,7 @@
       "city": "Miami",
       "zip_code": "33135",
       "country": "US",
-      "state": "FL",
-      "display_address": ["3555 SW 8th St", "Miami, FL 33135"]
+      "state": "FL"
     },
     "phone": "+13054440240",
     "display_phone": "(305) 444-0240",
@@ -143,10 +143,11 @@
       }
     ],
     "rating": 4.0,
-    "coordinates": {
-      "latitude": 25.726653,
-      "longitude": -80.241086
-    },
+
+    "lat": 25.726653,
+    "lng": -80.241086,
+    "address": ["2820 McFarlane Rd", "Miami, FL 33133"],
+
     "transactions": ["pickup", "delivery"],
     "price": "$$",
     "location": {
@@ -156,8 +157,7 @@
       "city": "Miami",
       "zip_code": "33133",
       "country": "US",
-      "state": "FL",
-      "display_address": ["2820 McFarlane Rd", "Miami, FL 33133"]
+      "state": "FL"
     },
     "phone": "+13052005268",
     "display_phone": "(305) 200-5268",
@@ -186,10 +186,11 @@
       }
     ],
     "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.788458,
-      "longitude": -80.193363
-    },
+
+    "lat": 25.788458,
+    "lng": -80.193363,
+    "address": ["55 NE 14th St", "Miami, FL 33132"],
+
     "transactions": ["pickup", "delivery", "restaurant_reservation"],
     "price": "$$",
     "location": {
@@ -199,8 +200,7 @@
       "city": "Miami",
       "zip_code": "33132",
       "country": "US",
-      "state": "FL",
-      "display_address": ["55 NE 14th St", "Miami, FL 33132"]
+      "state": "FL"
     },
     "phone": "+13053336929",
     "display_phone": "(305) 333-6929",
@@ -229,10 +229,11 @@
       }
     ],
     "rating": 4.0,
-    "coordinates": {
-      "latitude": 25.762015277335745,
-      "longitude": -80.1889859201474
-    },
+
+    "lat": 25.762015277335745,
+    "lng": -80.1889859201474,
+    "address": ["1155 Brickell Bay Dr", "Ste 101", "Miami, FL 33131"],
+
     "transactions": ["delivery", "restaurant_reservation"],
     "price": "$$",
     "location": {
@@ -242,8 +243,7 @@
       "city": "Miami",
       "zip_code": "33131",
       "country": "US",
-      "state": "FL",
-      "display_address": ["1155 Brickell Bay Dr", "Ste 101", "Miami, FL 33131"]
+      "state": "FL"
     },
     "phone": "+13059307338",
     "display_phone": "(305) 930-7338",
@@ -272,10 +272,11 @@
       }
     ],
     "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.79989504,
-      "longitude": -80.20052197
-    },
+
+    "lat": 25.79989504,
+    "lng": -80.20052197,
+    "address": ["310 NW 24th St", "Miami, FL 33127"],
+
     "transactions": ["delivery"],
     "price": "$$",
     "location": {
@@ -285,8 +286,7 @@
       "city": "Miami",
       "zip_code": "33127",
       "country": "US",
-      "state": "FL",
-      "display_address": ["310 NW 24th St", "Miami, FL 33127"]
+      "state": "FL"
     },
     "phone": "+17862167086",
     "display_phone": "(786) 216-7086",
@@ -315,10 +315,11 @@
       }
     ],
     "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.8158553,
-      "longitude": -80.1916263
-    },
+
+    "lat": 25.8158553,
+    "lng": -80.1916263,
+    "address": ["4312 NE 2nd Ave", "Miami, FL 33137"],
+
     "transactions": ["pickup", "delivery"],
     "price": "$$",
     "location": {
@@ -328,8 +329,7 @@
       "city": "Miami",
       "zip_code": "33137",
       "country": "US",
-      "state": "FL",
-      "display_address": ["4312 NE 2nd Ave", "Miami, FL 33137"]
+      "state": "FL"
     },
     "phone": "+13057499140",
     "display_phone": "(305) 749-9140",
@@ -354,10 +354,11 @@
       }
     ],
     "rating": 4.0,
-    "coordinates": {
-      "latitude": 25.6895055979133,
-      "longitude": -80.3128469801483
-    },
+
+    "lat": 25.6895055979133,
+    "lng": -80.3128469801483,
+    "address": ["7535 N Kendall Dr", "Unit 2510", "Miami, FL 33156"],
+
     "transactions": ["pickup", "delivery"],
     "price": "$$",
     "location": {
@@ -367,8 +368,7 @@
       "city": "Miami",
       "zip_code": "33156",
       "country": "US",
-      "state": "FL",
-      "display_address": ["7535 N Kendall Dr", "Unit 2510", "Miami, FL 33156"]
+      "state": "FL"
     },
     "phone": "+13056671786",
     "display_phone": "(305) 667-1786",
@@ -397,10 +397,11 @@
       }
     ],
     "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.759755083617645,
-      "longitude": -80.28787120715783
-    },
+
+    "lat": 25.759755083617645,
+    "lng": -80.28787120715783,
+    "address": ["1200 SW 57th Ave", "West Miami, FL 33144"],
+
     "transactions": ["delivery"],
     "price": "$$",
     "location": {
@@ -410,433 +411,10 @@
       "city": "West Miami",
       "zip_code": "33144",
       "country": "US",
-      "state": "FL",
-      "display_address": ["1200 SW 57th Ave", "West Miami, FL 33144"]
+      "state": "FL"
     },
     "phone": "+13054563200",
     "display_phone": "(305) 456-3200",
     "distance": 770.3693662841275
-  },
-  {
-    "id": "kvrpbq-j_Ulq6c_dmWv8oA",
-    "alias": "bulla-gastrobar-coral-gables-4",
-    "name": "Bulla Gastrobar",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S4-nSt2lsxfqWG4EJlzBsA/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/bulla-gastrobar-coral-gables-4?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 1453,
-    "categories": [
-      {
-        "alias": "gastropubs",
-        "title": "Gastropubs"
-      },
-      {
-        "alias": "spanish",
-        "title": "Spanish"
-      },
-      {
-        "alias": "tapas",
-        "title": "Tapas Bars"
-      }
-    ],
-    "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.748518,
-      "longitude": -80.258901
-    },
-    "transactions": ["pickup", "delivery"],
-    "price": "$$",
-    "location": {
-      "address1": "2500 Ponce De Leon Blvd",
-      "address2": "",
-      "address3": "",
-      "city": "Coral Gables",
-      "zip_code": "33134",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["2500 Ponce De Leon Blvd", "Coral Gables, FL 33134"]
-    },
-    "phone": "+17868106215",
-    "display_phone": "(786) 810-6215",
-    "distance": 2958.5063581814925
-  },
-  {
-    "id": "V3btCvWa1flTBYt2YKea_g",
-    "alias": "bombay-darbar-miami-3",
-    "name": "Bombay Darbar",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QexBugKrIEzV6mG_yHmgkA/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/bombay-darbar-miami-3?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 1531,
-    "categories": [
-      {
-        "alias": "indpak",
-        "title": "Indian"
-      }
-    ],
-    "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.72935,
-      "longitude": -80.240789
-    },
-    "transactions": ["pickup", "delivery"],
-    "price": "$$",
-    "location": {
-      "address1": "2901 Florida Ave",
-      "address2": "",
-      "address3": "",
-      "city": "Miami",
-      "zip_code": "33133",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["2901 Florida Ave", "Miami, FL 33133"]
-    },
-    "phone": "+13054447272",
-    "display_phone": "(305) 444-7272",
-    "distance": 5405.961958481842
-  },
-  {
-    "id": "bqTmkGBOUV6ReXWk1BVa2w",
-    "alias": "kush-by-spillover-miami",
-    "name": "Kush by Spillover",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Pp9mpa544Nio6lpUJ9Nvzg/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/kush-by-spillover-miami?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 976,
-    "categories": [
-      {
-        "alias": "breakfast_brunch",
-        "title": "Breakfast & Brunch"
-      },
-      {
-        "alias": "cocktailbars",
-        "title": "Cocktail Bars"
-      },
-      {
-        "alias": "newamerican",
-        "title": "New American"
-      }
-    ],
-    "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.72845,
-      "longitude": -80.24063
-    },
-    "transactions": ["delivery"],
-    "price": "$$",
-    "location": {
-      "address1": "2911 Grand Ave",
-      "address2": "",
-      "address3": "Ste 400 D",
-      "city": "Miami",
-      "zip_code": "33133",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["2911 Grand Ave", "Ste 400 D", "Miami, FL 33133"]
-    },
-    "phone": "+13054565723",
-    "display_phone": "(305) 456-5723",
-    "distance": 5502.994739113072
-  },
-  {
-    "id": "skXvWBZH8zJpqh6QbXrGzw",
-    "alias": "crust-miami",
-    "name": "CRUST",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yzQ6xEeqEEsO3RNcHbmZEg/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/crust-miami?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 1437,
-    "categories": [
-      {
-        "alias": "italian",
-        "title": "Italian"
-      },
-      {
-        "alias": "pizza",
-        "title": "Pizza"
-      },
-      {
-        "alias": "wine_bars",
-        "title": "Wine Bars"
-      }
-    ],
-    "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.77836,
-      "longitude": -80.20596
-    },
-    "transactions": ["pickup", "delivery"],
-    "price": "$$",
-    "location": {
-      "address1": "668 NW 5th St",
-      "address2": null,
-      "address3": null,
-      "city": "Miami",
-      "zip_code": "33128",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["668 NW 5th St", "Miami, FL 33128"]
-    },
-    "phone": "+13053717065",
-    "display_phone": "(305) 371-7065",
-    "distance": 8703.786393961424
-  },
-  {
-    "id": "sAqV3GmjGLn0w5qUpZpvvQ",
-    "alias": "ichimi-gables-coral-gables-2",
-    "name": "Ichimi - Gables",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EQ4OKiNBeTPDyBO9rnhqiw/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/ichimi-gables-coral-gables-2?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 1478,
-    "categories": [
-      {
-        "alias": "ramen",
-        "title": "Ramen"
-      },
-      {
-        "alias": "asianfusion",
-        "title": "Asian Fusion"
-      },
-      {
-        "alias": "izakaya",
-        "title": "Izakaya"
-      }
-    ],
-    "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.75003305410282,
-      "longitude": -80.26082076877175
-    },
-    "transactions": ["pickup", "delivery"],
-    "price": "$$",
-    "location": {
-      "address1": "2330 Salzedo St",
-      "address2": "",
-      "address3": "",
-      "city": "Coral Gables",
-      "zip_code": "33134",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["2330 Salzedo St", "Coral Gables, FL 33134"]
-    },
-    "phone": "+13059607016",
-    "display_phone": "(305) 960-7016",
-    "distance": 2744.7976785741557
-  },
-  {
-    "id": "zGf5kkYEU01NQ04DRYVPNQ",
-    "alias": "doce-provisions-miami",
-    "name": "Doce Provisions",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/spQ-ZrcpsnZzVmAHTFiQpQ/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/doce-provisions-miami?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 961,
-    "categories": [
-      {
-        "alias": "gastropubs",
-        "title": "Gastropubs"
-      },
-      {
-        "alias": "cuban",
-        "title": "Cuban"
-      },
-      {
-        "alias": "latin",
-        "title": "Latin American"
-      }
-    ],
-    "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.767862,
-      "longitude": -80.214191
-    },
-    "transactions": ["pickup", "delivery"],
-    "price": "$$",
-    "location": {
-      "address1": "541 SW 12th Ave",
-      "address2": null,
-      "address3": "",
-      "city": "Miami",
-      "zip_code": "33130",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["541 SW 12th Ave", "Miami, FL 33130"]
-    },
-    "phone": "+17864520161",
-    "display_phone": "(786) 452-0161",
-    "distance": 7583.169084399771
-  },
-  {
-    "id": "WqIBKxRUPXH3NqTViAHLxQ",
-    "alias": "bayshore-club-bar-and-grill-miami",
-    "name": "Bayshore Club Bar & Grill",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B7tTbJMlp7Dk6rpE4P3j5Q/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/bayshore-club-bar-and-grill-miami?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 613,
-    "categories": [
-      {
-        "alias": "seafood",
-        "title": "Seafood"
-      },
-      {
-        "alias": "tradamerican",
-        "title": "American"
-      },
-      {
-        "alias": "wine_bars",
-        "title": "Wine Bars"
-      }
-    ],
-    "rating": 4.0,
-    "coordinates": {
-      "latitude": 25.7287715,
-      "longitude": -80.2341624
-    },
-    "transactions": [],
-    "price": "$$",
-    "location": {
-      "address1": "3391 Pan American Dr",
-      "address2": null,
-      "address3": null,
-      "city": "Miami",
-      "zip_code": "33133",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["3391 Pan American Dr", "Miami, FL 33133"]
-    },
-    "phone": "+13052091200",
-    "display_phone": "(305) 209-1200",
-    "distance": 6024.029347747
-  },
-  {
-    "id": "KyP0kG_ffr2PA9Dt9Bbu8w",
-    "alias": "crudos-fusion-art-miami",
-    "name": "Crudos Fusion Art",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NIf10-fioGaGK1R5btgB_w/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/crudos-fusion-art-miami?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 671,
-    "categories": [
-      {
-        "alias": "asianfusion",
-        "title": "Asian Fusion"
-      },
-      {
-        "alias": "cocktailbars",
-        "title": "Cocktail Bars"
-      },
-      {
-        "alias": "sushi",
-        "title": "Sushi Bars"
-      }
-    ],
-    "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.799931969529865,
-      "longitude": -80.20009752149582
-    },
-    "transactions": ["pickup", "delivery", "restaurant_reservation"],
-    "price": "$$",
-    "location": {
-      "address1": "250 NW 24th St",
-      "address2": "",
-      "address3": "",
-      "city": "Miami",
-      "zip_code": "33127",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["250 NW 24th St", "Miami, FL 33127"]
-    },
-    "phone": "+17862387103",
-    "display_phone": "(786) 238-7103",
-    "distance": 10246.599964856792
-  },
-  {
-    "id": "QQnw1bFxLyamuxn4giIy9g",
-    "alias": "barbakoa-by-finka-miami-2",
-    "name": "Barbakoa by Finka",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_o9-fwhgRufcKxiD83nlmg/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/barbakoa-by-finka-miami-2?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 346,
-    "categories": [
-      {
-        "alias": "asianfusion",
-        "title": "Asian Fusion"
-      },
-      {
-        "alias": "pizza",
-        "title": "Pizza"
-      },
-      {
-        "alias": "cocktailbars",
-        "title": "Cocktail Bars"
-      }
-    ],
-    "rating": 4.5,
-    "coordinates": {
-      "latitude": 25.82003,
-      "longitude": -80.33551
-    },
-    "transactions": [],
-    "price": "$$",
-    "location": {
-      "address1": "8455 NW 53rd St",
-      "address2": "Suite 106",
-      "address3": "",
-      "city": "Miami",
-      "zip_code": "33166",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["8455 NW 53rd St", "Suite 106", "Miami, FL 33166"]
-    },
-    "phone": "",
-    "display_phone": "",
-    "distance": 8862.199465698219
-  },
-  {
-    "id": "aIQK1sw9Prr-KdUu717vRw",
-    "alias": "dolores-but-you-can-call-me-lolita-miami",
-    "name": "Dolores But You Can Call Me Lolita",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M0GuCnasme0Pj_JDEnFxZw/o.jpg",
-    "is_closed": false,
-    "url": "https://www.yelp.com/biz/dolores-but-you-can-call-me-lolita-miami?adjust_creative=wZXoEm2IvsKH7nw11ZIwLw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wZXoEm2IvsKH7nw11ZIwLw",
-    "review_count": 1640,
-    "categories": [
-      {
-        "alias": "newamerican",
-        "title": "New American"
-      },
-      {
-        "alias": "cocktailbars",
-        "title": "Cocktail Bars"
-      },
-      {
-        "alias": "tapas",
-        "title": "Tapas Bars"
-      }
-    ],
-    "rating": 4.0,
-    "coordinates": {
-      "latitude": 25.76427,
-      "longitude": -80.19354
-    },
-    "transactions": ["delivery", "restaurant_reservation"],
-    "price": "$$",
-    "location": {
-      "address1": "1000 S Miami Ave",
-      "address2": "",
-      "address3": "",
-      "city": "Miami",
-      "zip_code": "33130",
-      "country": "US",
-      "state": "FL",
-      "display_address": ["1000 S Miami Ave", "Miami, FL 33130"]
-    },
-    "phone": "+17866488400",
-    "display_phone": "(786) 648-8400",
-    "distance": 9554.952651956248
   }
 ]
